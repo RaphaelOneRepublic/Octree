@@ -1,0 +1,8 @@
+{
+  "name": "Octree",
+  "version": "0.0.1",
+  "dependencies": {
+    "three": "^0.92.0",
+    "three-orbitcontrols": "^2.1.2"
+  }
+}
